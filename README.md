@@ -10,4 +10,4 @@ Retro Fun: Bringing back the nostalgia of old-school arcade games with a modern,
 
 This project showcases basic game mechanics like movement, growth, collision detection and scoring all implemented in Scratchs friendly block-based coding environment. 
 
-Whether you're here to play or to peek behind the curtains at the scripts, there's something for everyone. Enjoy the simplicity, challenge yourself!
+Enjoy!
